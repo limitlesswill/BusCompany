@@ -1,0 +1,23 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/*
+\.vs
+\.vs\*
+/bin/
+/bin/*
+\bin\
+\bin\*
+/obj/
+/obj/*
+\obj\
+\obj\*
+/.git/
+/.git/*
+\.git\
+\.git\*
+/obj/Release/bus_station.csproj.AssemblyReference.cache
+/Properties/
+/Properties/*
